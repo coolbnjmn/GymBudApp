@@ -77,9 +77,9 @@ p {
 
 #slideshow {
     position:relative;
-    height:500px;
+    height:60%;
 	margin: 50px auto;
-	
+
 }
 
 #slideshow IMG {
@@ -89,7 +89,7 @@ p {
 	left: 0;
 	right: 0;
     z-index:8;
-	max-height: 500px; 
+	height: 100%; 
 }
 
 #slideshow IMG.active {
@@ -128,6 +128,7 @@ p {
 	text-align: center; 
 	font-family: Helvetica, Arial; 
 	margin-top:-30px;
+
 	margin-left: 25%;
 	margin-right: 25%; 
 }
