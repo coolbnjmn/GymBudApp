@@ -1,0 +1,186 @@
+.version.team /* version checker */
+{
+	color: #0000EE;
+	background-color: #29DBFA;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 370px;
+	min-height: 483.7098214285714px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: #7F7F7F;
+	padding-left: 10px;
+	padding-top: 15px;
+	padding-bottom: 71.29017857142861px;
+}
+
+#u205
+{
+	z-index: 2;
+	width: 285px;
+	background-color: transparent;
+	margin-left: 38px;
+	position: relative;
+}
+
+#pu211
+{
+	width: 0.01px;
+	margin-left: 18px;
+	margin-top: -8px;
+}
+
+#u211
+{
+	z-index: 4;
+	width: 1px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 16px;
+	left: 26px;
+}
+
+#u222
+{
+	z-index: 6;
+	width: 105px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u228
+{
+	z-index: 8;
+	width: 105px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 216px;
+}
+
+#pu239
+{
+	width: 0.01px;
+	margin-top: 14px;
+}
+
+#u239
+{
+	z-index: 14;
+	width: 141px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u245
+{
+	z-index: 16;
+	width: 151px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 219px;
+}
+
+#pu231
+{
+	width: 0.01px;
+	margin-left: 18px;
+	margin-top: 92px;
+}
+
+#u231
+{
+	z-index: 10;
+	width: 107px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u234
+{
+	z-index: 12;
+	width: 103px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 217px;
+}
+
+#pu251
+{
+	width: 0.01px;
+	margin-top: 9px;
+}
+
+#u251
+{
+	z-index: 18;
+	width: 151px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+}
+
+#u260
+{
+	z-index: 20;
+	width: 149px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 212px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
